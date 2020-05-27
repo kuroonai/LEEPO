@@ -11,7 +11,7 @@ DOI : https://doi.org/10.1016/j.ijpharm.2011.12.019
 
 
 
-# Python code to calculate Encapuslation efficiecny of Liposomes
+Python code to calculate Encapuslation efficiecny of Liposomes
 
 (L)iposome
 
@@ -23,9 +23,9 @@ DOI : https://doi.org/10.1016/j.ijpharm.2011.12.019
             
                 (O)ptimizer
             
-# Program Usage : python LEEPO-sphere.py mu sigma, sizerange ... 
+Program Usage : python LEEPO.py mu sigma, sizerange ... 
 
-# Example command : python LEEPO.py 190.0 38.0 1000 0.23 5.2 0.45 140 5 60.04
+Example command : python LEEPO.py 190.0 38.0 1000 0.23 5.2 0.45 140 5 60.04
 
 Enter the system parameters in the order of:
 
